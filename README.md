@@ -1,5 +1,5 @@
 ## Base de Datos Pública - SICEP
-Este archivo Excel incluye las convocatorias cerradas y adjudicadas con corte a mayo de 2021. La información se obtuvo mediante procesos automáticos de **webscrapping** y no de manera manual por lo que son posibles las inconsistencias (se revisaron tres de manera manual y la información coincidió). Espero que esta información sea de utilidad e incentive la realización de análisis y comparaciones respecto al impacto del SICEP en el mercado de contratos de largo plazo.
+Este archivo Excel incluye las convocatorias cerradas y adjudicadas con corte a **mayo 31 de 2021**. La información se obtuvo mediante procesos automáticos de **webscrapping** y no de manera manual por lo que son posibles las inconsistencias (se revisaron tres de manera manual y la información coincidió). Espero que esta información sea de utilidad e incentive la realización de análisis y comparaciones respecto al impacto del SICEP en el mercado de contratos de largo plazo.
 
 **Usar bajo su propia responsabilidad**
 
