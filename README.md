@@ -12,6 +12,6 @@ A continuación se presenta una breve descripción de los campos que contiene el
 - **tipo_con:** Tipo de negociación bilateral (PD, PC)
 - **ini_con:** Fecha inicio del producto
 - **fin_con:** Fecha fin del producto
-- **tamanio_con:** Tamaño del producto en MWh de acuerdo con la publicación inicial de términos. En caso de adendas o modificaciones, pueden no verse reflejadao en este valor.
+- **tamanio_con:** Tamaño del producto en MWh de acuerdo con la publicación inicial de términos. En caso de adendas o modificaciones, pueden no verse reflejadas en este valor.
 - **fecha_ini:** Fecha de inicio de la **convocatoria**
 - **fecha_fin:** Fecha de fin de la **convocatoria**
